@@ -164,8 +164,44 @@ game.setLocalization("en_US", "AWWayofTime:fluidSigil", "Fluid Sigil");
 
 game.setLocalization("en_US", "item.injection.15.name", "Useless Injection");
 
+game.setLocalization("en_US", "item.ItemBaubleBlanks.32767.name", "Mundane Amulet / Mundane Ring");
 
-#Broken localization in Waila
+game.setLocalization("en_US", "item.botania:grassSeeds32757.name", "Pasture Seeds");
+
+game.setLocalization("en_US", "item.botania.cosmetic32767.name", "Botania Accessory");
+
+game.setLocalization("en_US", "Speed Upgrade.name", "Speed Upgrade");
+
+game.setLocalization("en_US", "item.upgrade_speed,name.desc", "Increases the rate at wich the Auto Chisel works");
+
+game.setLocalization("en_US", "Automation Upgrade.name", "Automation Upgrade");
+
+game.setLocalization("en_US", "item.upgrade_automation,name.desc", "Allows things to push in and out of the Auto Chisel");
+
+game.setLocalization("en_US", "Stack Upgrade.name", "Stack Upgrade");
+
+game.setLocalization("en_US", "item.upgrade_stack,name.desc", "Allows it to chisel stacks at a time in the Auto Chisel");
+
+game.setLocalization("en_US", "Reversion Upgrade.name", "Reversion Upgrade");
+
+game.setLocalization("en_US", "item.upgrade_reversion,name.desc", "Reverts the base slot to its orginal form in the Auto Chisel");
+
+game.setLocalization("en_US", "fluid.element.Lv.name", "Livermorium");
+
+game.setLocalization("en_US", "fluid.element.Nh.name", "Nihonium");
+
+game.setLocalization("en_US", "fluid.element.Og.name", "Oganesson");
+
+game.setLocalization("en_US", "fluid.element.Ts.name", "Tennessine");
+
+game.setLocalization("en_US", "fluid.element.Fl.name", "Flerovium");
+
+game.setLocalization("en_US", "fluid.element.Mc.name", "Moscovium");
+
+game.setLocalization("en_US", "container.cargomanager", "Cargo Manager");
+
+
+####### Broken localization in Waila #######
 game.setLocalization("en_US", "block.leaves.name", "Leaves");
 
 game.setLocalization("en_US", "entity.testdummy.Dummy.name", "Test Dummy");
@@ -200,46 +236,13 @@ game.setLocalization("en_US", "tile.ghostBlock.orange.name", "Projected Blueprin
 
 game.setLocalization("en_US", "tile.blockCandle.32767.name", "Tallow Candle");
 
-game.setLocalization("en_US", "tile.thaumicexploration:floatCandle.32767.name", "Floating Tallow Candle");
-
-game.setLocalization("en_US", "itemm.ItemBaubleBlanks.32767.name", "Mundane Amulet / Mundane Ring");
-
 game.setLocalization("en_US", "tile.for.factory.name", "Moistener");
 
-game.setLocalization("en_US", "item.botania:grassSeeds32757.name", "Pasture Seeds");
-
-game.setLocalization("en_US", "item.botania.cosmetic32767.name", "Botania Accessory");
-
-game.setLocalization("en_US", "Speed Upgrade.name", "Speed Upgrade");
-
-game.setLocalization("en_US", "item.upgrade_speed,name.desc", "Increases the rate at wich the Auto Chisel works");
-
-game.setLocalization("en_US", "Automation Upgrade.name", "Automation Upgrade");
-
-game.setLocalization("en_US", "item.upgrade_automation,name.desc", "Allows things to push in and out of the Auto Chisel");
-
-game.setLocalization("en_US", "Stack Upgrade.name", "Stack Upgrade");
-
-game.setLocalization("en_US", "item.upgrade_stack,name.desc", "Allows it to chisel stacks at a time in the Auto Chisel");
-
-game.setLocalization("en_US", "Reversion Upgrade.name", "Reversion Upgrade");
-
-game.setLocalization("en_US", "item.upgrade_reversion,name.desc", "Reverts the base slot to its orginal form in the Auto Chisel");
-
-game.setLocalization("en_US", "fluid.element.Lv.name", "Livermorium");
-
-game.setLocalization("en_US", "fluid.element.Nh.name", "Nihonium");
-
-game.setLocalization("en_US", "fluid.element.Og.name", "Oganesson");
-
-game.setLocalization("en_US", "fluid.element.Ts.name", "Tennessine");
-
-game.setLocalization("en_US", "fluid.element.Fl.name", "Flerovium");
-
-game.setLocalization("en_US", "fluid.element.Mc.name", "Moscovium");
+game.setLocalization("en_US", "tile.thaumicexploration:floatCandle.32767.name", "Floating Tallow Candle");
 
 
-#NEI Dungeon Errors
+
+######## NEI Dungeon Errors #######
 
 game.setLocalization("en_US", "vn_snowy_house", "Snowy House");
 
@@ -247,7 +250,7 @@ game.setLocalization("en_US", "vn_temple", "Temple");
 
 game.setLocalization("en_US", "naturalistChest", "Naturalist House");
 
-game.setLocalization("en_US", "mfr:villageZoologist", "Zoologist House");
+game.setLocalization("en_US", "mfr:villageZoolologist", "Zoolologist House");
 
 game.setLocalization("en_US", "vn_savanna_house", "Savannah House");
 
@@ -299,6 +302,8 @@ game.setLocalization("en_US", "vn_mason", "Mason");
 game.setLocalization("en_US", "iglooChest", "Igloo");
 
 game.setLocalization("en_US", "vn_armorer", "Armorer");
+
+
 
 
 ########## Tweaks ##############
